@@ -1,7 +1,7 @@
 # Metasploit-for-Beginners-Ethical-Penetration-Testing
 
 ##Objective:
-The primary objective of this project is to equip learners with practical, hands-on experience in using Metasploit for ethical penetration testing. By completing this project, participants will:
+The primary objective of this project is to equip learners with practical, hands-on experience in using Metasploit for ethical penetration testing. 
 
 - Understand Metasploit Framework: Gain comprehensive knowledge of the Metasploit Framework, its architecture, and how to use it effectively for penetration testing.
 - Conduct Network Scanning: Utilize Nmap and other tools to perform network discovery, identify open ports, and map potential vulnerabilities in a controlled environment.
